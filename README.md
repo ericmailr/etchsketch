@@ -1,6 +1,8 @@
 Eric Miller
 09/15/2017
 
+https://ericmailr.github.io/etchsketch/
+
 The Odin Project: Javascript & jQuery
 
 https://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery?ref=lnav
